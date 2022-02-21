@@ -1,1 +1,5 @@
 # My struggle with programming
+
+
+
+
