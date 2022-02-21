@@ -1,5 +1,0 @@
-# My struggle with programming
-
-
-
-
