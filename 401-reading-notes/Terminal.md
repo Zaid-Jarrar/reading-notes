@@ -105,7 +105,7 @@ To move a file we use the command mv which is short for move. It operates in a s
 `mv [options] <source> <destination>` ie `mv file2 directory1/file4` this moves file2 and puts it inside directory1 and names it file4.
 We can also rename the same directory or file and move it.
 
-#### <ins>Removing a file</ins>
+#### <ins>Removing a file or directory</ins>
 we can use a similar command to remove a directory called rm and use this command:
 `rm [options] <file>` this will remove the file but to remove a non-empty directory we use `rm -r <directory>` option and `-i` to give us a notification confirming the removal since there will be no going back after its removed.
 
