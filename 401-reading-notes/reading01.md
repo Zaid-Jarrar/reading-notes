@@ -1,0 +1,1 @@
+# My struggle with programming
