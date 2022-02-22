@@ -1,4 +1,4 @@
-#Reading Notes
+# Reading Notes
 ## Code 401 - Advanced Software Development
 Description:
 This file will contain all my observations and notes on the subjects in the table of contents down below.
