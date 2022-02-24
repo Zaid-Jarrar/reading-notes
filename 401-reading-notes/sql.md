@@ -42,19 +42,19 @@ The Pictures are taken from [sqlbolt](https://sqlbolt.com/lesson/select_queries_
 ### Optional keyword arguments: with **Select**
  
 **Where conditon**: a condition statement which help reduce the number of search results in the picture below you can see conditional operators used with where <br>
-![alt text](/401-reading-notes/pic/Constraints.PNG) 
-![alt text](/401-reading-notes/pic/operators.PNG)
-![alt text](/401-reading-notes/pic/Lesson1.PNG)
-![alt text](/401-reading-notes/pic/select.PNG)
-![alt text](/401-reading-notes/pic/like.PNG)
+![alt text](/pic/Constraints.PNG) 
+![alt text](/pic/operators.PNG)
+![alt text](/pic/Lesson1.PNG)
+![alt text](/pic/select.PNG)
+![alt text](/pic/like.PNG)
 
 **Distinct** : shows only unique data with no duplicates <br>
 **ORDER BY column ASC/DESC** : orders the results Ascending or Descending.<br>
 **LIMIT num_limit OFFSET num_offset** : often used with Order by keyword and the limit reduces the number of results and the offset sets where to start giving results(number).<br>
-![alt text](/401-reading-notes/pic/Limit.PNG)
-![alt text](/401-reading-notes/pic/limit2.PNG)
+![alt text](/pic/Limit.PNG)
+![alt text](/pic/limit2.PNG)
  **JOIN or INNER JOIN**: Using the JOIN clause in a query, we can combine row data across two separate tables using a unique key which is mostly the id.
-![alt text](/401-reading-notes/pic/Join.PNG)
+![alt text](/pic/Join.PNG)
 
 -------------------------------------------
 
@@ -69,7 +69,7 @@ INSERT INTO mytable
 VALUES (value_or_expr, another_value_or_expr, …),
 (value_or_expr_2, another_value_or_expr_2, …),
 ```
-![alt text](/401-reading-notes/pic/Insert1.PNG)
+![alt text](/pic/Insert1.PNG)
 
 -------------------------------------------
 ### UPDATE: 
@@ -83,7 +83,7 @@ SET column = value_or_expr,
     …
 WHERE condition;
 ```
-![alt text](/401-reading-notes/pic/Update.PNG)
+![alt text](/pic/Update.PNG)
 
 -------------------------------------------
 
@@ -93,7 +93,7 @@ BE AWARE: to take caution when deleting rows from the table by first using SELEC
 DELETE FROM mytable
 WHERE condition;
 ```
-![alt text](/401-reading-notes/pic/Deleting.PNG)
+![alt text](/pic/Deleting.PNG)
 
 -------------------------------------------
 
@@ -109,12 +109,12 @@ CREATE TABLE IF NOT EXISTS mytable (
 **IF NOT EXISTS** will check first if the table exist and if not it will create a new one.
 
 There are several different types of data
- ![alt text](/401-reading-notes/pic/Createdata.PNG)
+ ![alt text](/pic/Createdata.PNG)
 
 as well as types of constraints to connect to other tables
-![alt text](/401-reading-notes/pic/createkeys.PNG)
+![alt text](/pic/createkeys.PNG)
 Here is an example:
-![alt text](/401-reading-notes/pic/Createex.PNG)
+![alt text](/pic/Createex.PNG)
 
 ------------------------------------------------
 
@@ -141,7 +141,7 @@ RENAME TO new_table_name;
 ```
 
 General Example: 
-![alt text](/401-reading-notes/pic/alter.PNG)
+![alt text](/pic/alter.PNG)
 
 --------------------------------------------
 
@@ -151,4 +151,4 @@ It differs from delete is that drop removes the entire table from the schema
 ```
 DROP TABLE IF EXISTS mytable;
 ```
-![alt text](/401-reading-notes/pic/Drop.PNG)
+![alt text](/pic/Drop.PNG)
