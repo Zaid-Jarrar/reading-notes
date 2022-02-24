@@ -153,4 +153,4 @@ It differs from delete is that drop removes the entire table from the schema
 ```
 DROP TABLE IF EXISTS mytable;
 ```
-![alt text](/asset/drop.png)
+![alt text](../asset/drop.png)
