@@ -141,7 +141,9 @@ RENAME TO new_table_name;
 ```
 
 General Example: 
-![alt text](/asset/alter.PNG)
+<!-- ![alt text](/asset/alter.PNG) -->
+
+<img src="/asset/drop.png" alt = "test"/>
 
 --------------------------------------------
 
@@ -151,4 +153,4 @@ It differs from delete is that drop removes the entire table from the schema
 ```
 DROP TABLE IF EXISTS mytable;
 ```
-![alt text](/asset/Drop.PNG)
+![alt text](/asset/drop.png)
