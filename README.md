@@ -6,4 +6,4 @@ This file will contain all my observations and notes on the subjects in the tabl
 -  [SQL](401-reading-notes/sql.md)
 - [Terminal Commands](401-reading-notes/Terminal.md)
 
-![please work](/asset/drop.png)
+

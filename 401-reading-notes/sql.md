@@ -37,24 +37,24 @@ ADD column_name datatype;
 -  A semicolon is a must at the end of the query (;).
 -  Table and column names must start with a letter and not a number.
 
-The assettures are taken from [sqlbolt](https://sqlbolt.com/lesson/select_queries_with_constraints_pt_2)
+The../assetstures are taken from [sqlbolt](https://sqlbolt.com/lesson/select_queries_with_constraints_pt_2)
 
 ### Optional keyword arguments: with **Select**
  
-**Where conditon**: a condition statement which help reduce the number of search results in the assetture below you can see conditional operators used with where <br>
-![alt text](/asset/Constraints.PNG) 
-![alt text](/asset/operators.PNG)
-![alt text](/asset/Lesson1.PNG)
-![alt text](/asset/select.PNG)
-![alt text](/asset/like.PNG)
+**Where conditon**: a condition statement which help reduce the number of search results in the../assetsture below you can see conditional operators used with where <br>
+![alt text](../assets/Constraints.PNG) 
+![alt text](../assets/operators.PNG)
+![alt text](../assets/Lesson1.PNG)
+![alt text](../assets/select.PNG)
+![alt text](../assets/like.PNG)
 
 **Distinct** : shows only unique data with no duplicates <br>
 **ORDER BY column ASC/DESC** : orders the results Ascending or Descending.<br>
 **LIMIT num_limit OFFSET num_offset** : often used with Order by keyword and the limit reduces the number of results and the offset sets where to start giving results(number).<br>
-![alt text](/asset/Limit.PNG)
-![alt text](/asset/limit2.PNG)
+![alt text](../assets/Limit.PNG)
+![alt text](../assets/limit2.PNG)
  **JOIN or INNER JOIN**: Using the JOIN clause in a query, we can combine row data across two separate tables using a unique key which is mostly the id.
-![alt text](/asset/Join.PNG)
+![alt text](../assets/Join.PNG)
 
 -------------------------------------------
 
@@ -69,7 +69,7 @@ INSERT INTO mytable
 VALUES (value_or_expr, another_value_or_expr, …),
 (value_or_expr_2, another_value_or_expr_2, …),
 ```
-![alt text](/asset/Insert1.PNG)
+![alt text](../assets/Insert1.PNG)
 
 -------------------------------------------
 ### UPDATE: 
@@ -83,7 +83,7 @@ SET column = value_or_expr,
     …
 WHERE condition;
 ```
-![alt text](/asset/Update.PNG)
+![alt text](../assets/Update.PNG)
 
 -------------------------------------------
 
@@ -93,7 +93,7 @@ BE AWARE: to take caution when deleting rows from the table by first using SELEC
 DELETE FROM mytable
 WHERE condition;
 ```
-![alt text](/asset/Deleting.PNG)
+![alt text](../assets/Deleting.PNG)
 
 -------------------------------------------
 
@@ -109,12 +109,12 @@ CREATE TABLE IF NOT EXISTS mytable (
 **IF NOT EXISTS** will check first if the table exist and if not it will create a new one.
 
 There are several different types of data
- ![alt text](/asset/Createdata.PNG)
+ ![alt text](../assets/Createdata.PNG)
 
 as well as types of constraints to connect to other tables
-![alt text](/asset/createkeys.PNG)
+![alt text](../assets/createkeys.PNG)
 Here is an example:
-![alt text](/asset/Createex.PNG)
+![alt text](../assets/Createex.PNG)
 
 ------------------------------------------------
 
@@ -141,9 +141,9 @@ RENAME TO new_table_name;
 ```
 
 General Example: 
-<!-- ![alt text](/asset/alter.PNG) -->
+![alt text](../assets/alter.PNG)
 
-<img src="/asset/drop.png" alt = "test"/>
+
 
 --------------------------------------------
 
@@ -153,4 +153,4 @@ It differs from delete is that drop removes the entire table from the schema
 ```
 DROP TABLE IF EXISTS mytable;
 ```
-![alt text](../asset/drop.png)
+![alt text](../assets/drop.png)
