@@ -26,7 +26,7 @@ I have found out that i really need to re-assess my emotions and how i can contr
 
 ## Bias Self-Assessment
 
-As it appears my strongest area is effective courage and my weakest is Mitigate BIAS although i think i am a well rounded person, imporvements are  still needed. I for one am not Biased and believe in fair chances to all.
+As it appears my strongest area is effective courage and my weakest is Mitigate BIAS although i think i am a well rounded person, improvements  are  still needed. I for one am not Biased and believe in fair chances to all.
 
 ![bias](../assets/bias.PNG)
 
