@@ -75,9 +75,10 @@ def factorial (n)
 factorial (4) 
 that is divided into different values of n until we can solve it.
 
-factorial (4) = 4 * factorial(3) * 3 * factorial(2) * 2 * factorial(1)
+factorial (4) = 4 * factorial(3) * 3 * factorial(2) * 2 * factorial(1) * 1
+
 pending multiply is what each stack is doing to multiply
+
 4 * factorial(3)  // top of the stack
-3 * factorial(2)
-2 * factorial(1)
+
 1          // base value bottom of the stack
