@@ -7,3 +7,4 @@ This file will contain all my observations and notes on the subjects in the tabl
 - [Terminal Commands](401-reading-notes/Terminal.md)
 - [Growth Mindset](401-reading-notes/Growth-Mindset.md)
 - [Read Class01](401-reading-notes/Read-Class01.md)
+- [Read Class02](401-reading-notes/Read-Class02.md)
