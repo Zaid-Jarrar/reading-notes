@@ -14,13 +14,14 @@ End of file (EOF): special character that indicates the end of the file
 
 ## Opening and Closing a File in Python
 
-When you want to work with a file, the first thing to do is to open it. This is done by invoking the open() built-in function. open() has a single required argument that is the path to the file. open() has a single return, the file object:
+open() has a single required argument that is the path to the file. open() has a single return, the file object:
+```
+ file = open('dog_breeds.txt')
 
-> file = open('dog_breeds.txt')
-
+```
 ### ways to close the file:
 
-- the try-finally block
+- The try-finally block
   
 ```
   reader = open('dog_breeds.txt')
@@ -30,7 +31,7 @@ When you want to work with a file, the first thing to do is to open it. This is 
     reader.close()
  ```
 
-- use the with statement:
+- Use the with statement:
 
  ```
 with open('dog_breeds.txt') as reader:
@@ -62,7 +63,6 @@ There are three different categories of file objects:
 - Buffered binary files
 - Raw binary files
 
-Each of these file types are defined in the io module. Here’s a quick rundown of how everything lines up.
 
 ### Reading and Writing Opened Files
 
@@ -246,7 +246,7 @@ else:
 finally:
     print('Cleaning up, irrespective of any exceptions.')
 ```
-In the previous code, everything in the finally clause will be executed. It does not matter if you encounter an exception somewhere in the try or else clauses. Running the previous code on a Windows machine would output the following:
+In the this code, everything in the finally clause will be executed. It does not matter if you encounter an exception somewhere in the try or else clauses. Running the ths code on a Windows machine would output the following:
 
 ```
 Function can only run on Linux systems.
@@ -255,7 +255,7 @@ Cleaning up, irrespective of any exception
 
 ### Summing Up
 
-After seeing the difference between syntax errors and exceptions, you learned about various ways to raise, catch, and handle exceptions in Python. In this article, you saw the following options:
+After seeing the difference between syntax errors and exceptions, i have learned about how  to raise, catch, and handle exceptions in Python, such as:
 
 - raise allows you to throw an exception at any time.
 - assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
