@@ -10,3 +10,5 @@ This file will contain all my observations and notes on the subjects in the tabl
 - [Read Class02](401-reading-notes/Read-Class02.md)
 - [Read Class03](401-reading-notes/Read-Class03.md)
 - [Read Class04](401-reading-notes/Read-Class04.md)
+- [Read Class05-Linked-Lists](401-reading-notes/Read-Class05-Linked.md)
+
