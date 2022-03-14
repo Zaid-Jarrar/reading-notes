@@ -74,3 +74,6 @@ Once you’ve imported sys you can access ps1 using the dot notation on sys. You
 
 
 Whenever you use a name, such as a variable or a function name, Python searches through different scope levels (or namespaces) to determine whether the name exists or not. If the name exists, then you’ll always get the first occurrence of it. Otherwise, you’ll get an error. You’ll cover this search mechanism in the next section.
+
+-------------------------------------
+
