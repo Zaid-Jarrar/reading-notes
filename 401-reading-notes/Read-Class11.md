@@ -146,4 +146,3 @@ import numpy as np
 It’s possible to use NumPy to directly read csv or other files into arrays. We can do this using the numpy.genfromtxt function.
 
 ------------------------------------------
-

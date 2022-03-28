@@ -17,6 +17,7 @@ This file will contain all my observations and notes on the subjects in the tabl
 - [Read Class09](401-reading-notes/Read-Class09.md)
 - [Read Class10](401-reading-notes/Read-Class10.md)
 - [Read Class11](401-reading-notes/Read-Class11.md)
+- [Read Class12](401-reading-notes/Read-Class12.md)
   
   
 
