@@ -21,6 +21,8 @@ This file will contain all my observations and notes on the subjects in the tabl
 - [Read Class13](401-reading-notes/Read-Class13.md)
 - [Read Class14](401-reading-notes/Read-Class14.md)
 - [Read Class15](401-reading-notes/Read-Class15.md)
+- [Read Class16](401-reading-notes/Read-Class16.md)
+  
   
   
   
