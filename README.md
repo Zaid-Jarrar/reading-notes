@@ -23,10 +23,8 @@ This file will contain all my observations and notes on the subjects in the tabl
 - [Read Class15](401-reading-notes/Read-Class15.md)
 - [Read Class16](401-reading-notes/Read-Class16.md)
 - [Read Class17](401-reading-notes/Read-Class17.md)
-  
-  
-  
-  
-  
+- [Read Class-Django](401-reading-notes/Read-Django.md)
+- [Read Class-Django-Models](401-reading-notes/Read-Django-models.md)
 
-
+  
+  
