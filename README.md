@@ -26,8 +26,4 @@ This file will contain all my observations and notes on the subjects in the tabl
 - [Read Class-Django](401-reading-notes/Read-Django.md)
 - [Read Class-Django-Models](401-reading-notes/Read-Django-models.md)
 - [Read Class-Django-Forms](401-reading-notes/Read-Django-Forms.md)
-- [Read Class-Django-Custom-User](401-reading-notes/Read-Class-Django-Custom-User.md)
- 
-
-  
-  
+- [Read Class-Django-Custom-User](401-reading-notes/Read-Class-Django-Custom-User.md) 
