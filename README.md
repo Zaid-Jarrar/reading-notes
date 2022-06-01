@@ -31,3 +31,5 @@ This file will contain all my observations and notes on the subjects in the tabl
 - [Read Class-Django-REST-Framework-&-Docker](401-reading-notes/Read-Class-Django-Custom-User.md)
 - [Read Class-Permissions&Postgresql](401-reading-notes/Read-Class-Permissions&Postgresql.md)
 - [Read Class-Authentication-&-Production-Server](401-reading-notes/Read-Authentication-&-Production-Server.md)  
+- [Read Class API deployment](401-reading-notes/Read-class-API-deployment.md)
+- [Read Class Graphs](401-reading-notes/Read-Class-Graphs.md)
