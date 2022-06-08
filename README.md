@@ -35,4 +35,4 @@ This file will contain all my observations and notes on the subjects in the tabl
 - [Read Class Graphs](401-reading-notes/Read-Class-Graphs.md)
 - [Read Class DSA Review](401-reading-notes/Read-Class-DSA-Review.md)
 - [Read Class React 1](401-reading-notes/Read-Class-React1.md)
-- 
+- [Read Class React 2](401-reading-notes/Read-Class-React2.md)
